@@ -1,0 +1,96 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "9c33a35c-137c-444e-9722-194807b64b92")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "12.6V"
+		(shape input)
+		(at 111.76 48.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5742ec3b-bb49-481f-9f98-8e665026352d")
+	)
+	(hierarchical_label "Charge Vin-"
+		(shape input)
+		(at 78.74 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5cefde16-8afa-4790-b753-9f27bbac8fe0")
+	)
+	(hierarchical_label "Discharge Vout-"
+		(shape output)
+		(at 78.74 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6a66ea37-e3cb-4e10-a661-aaf95bf238ee")
+	)
+	(hierarchical_label "Charge Vin+"
+		(shape input)
+		(at 78.74 46.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "95d238f8-6d37-4a37-bf11-a2b9132d5806")
+	)
+	(hierarchical_label "Discharge Vout+"
+		(shape output)
+		(at 78.74 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a6f6dea5-8f74-47bb-9622-7cf39ea636c7")
+	)
+	(hierarchical_label "8.4V"
+		(shape input)
+		(at 111.76 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d9fe5db5-fd51-4ce8-9745-4f8e99f8b4c4")
+	)
+	(hierarchical_label "4.2V"
+		(shape input)
+		(at 111.76 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e6234989-d3bf-4186-9488-de57907bda33")
+	)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 111.76 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e98555d3-bd88-4ffd-963b-eda0de9ddac9")
+	)
+)

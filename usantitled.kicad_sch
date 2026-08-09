@@ -1,0 +1,41 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "69f40399-87a4-40a0-a2d3-b22fb0047932")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "SCL"
+		(shape input)
+		(at 90.17 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "244785fb-7f0c-45d3-b6df-1901d5296da0")
+	)
+	(hierarchical_label "PWM"
+		(shape output)
+		(at 90.17 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a7190858-496e-427e-ab95-d5c06c615252")
+	)
+	(hierarchical_label "SDA"
+		(shape input)
+		(at 90.17 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f44f7e78-f2e1-4231-9b6d-969d20f49dc6")
+	)
+)

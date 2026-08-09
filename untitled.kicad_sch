@@ -1,0 +1,1250 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "4a9cc096-95ee-4c96-9595-565331703f77")
+	(paper "A4")
+	(lib_symbols)
+	(junction
+		(at 165.1 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "599858d4-6c88-47f3-80ae-6cb73ac2eef1")
+	)
+	(junction
+		(at 191.77 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8bf5e81f-fb6f-492f-8a8f-d986419ee5cf")
+	)
+	(junction
+		(at 165.1 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b0c11fe0-2c10-4a22-b927-55959b09f01c")
+	)
+	(wire
+		(pts
+			(xy 127 74.93) (xy 127 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04a7b69c-9d2f-4ad9-8bf2-1d1ed1af4892")
+	)
+	(wire
+		(pts
+			(xy 165.1 109.22) (xy 165.1 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1053f1b4-9264-4833-a773-2bf9710e232f")
+	)
+	(wire
+		(pts
+			(xy 167.64 99.06) (xy 165.1 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1284d4d9-a364-4586-81a9-d313e4a6d856")
+	)
+	(wire
+		(pts
+			(xy 191.77 86.36) (xy 187.96 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "155cd5c2-435a-436e-9a82-c33fac5e5d8b")
+	)
+	(wire
+		(pts
+			(xy 124.46 99.06) (xy 135.89 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "157316d1-0ef1-422e-b8e6-a8d2eefb409b")
+	)
+	(wire
+		(pts
+			(xy 187.96 90.17) (xy 195.58 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c55d38b-3174-4cae-9a44-97d6a846d21f")
+	)
+	(wire
+		(pts
+			(xy 160.02 95.25) (xy 152.4 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23493189-50db-4b75-933c-4ac262a9f85f")
+	)
+	(wire
+		(pts
+			(xy 167.64 90.17) (xy 165.1 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27ffab54-c4d6-43b7-94dc-beb884711f4d")
+	)
+	(wire
+		(pts
+			(xy 154.94 73.66) (xy 154.94 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2adfd748-5174-4df7-8b78-a3f06e5a4b0f")
+	)
+	(wire
+		(pts
+			(xy 134.62 78.74) (xy 130.81 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e0dde69-12ee-4acd-b187-9c78a1fc0e10")
+	)
+	(wire
+		(pts
+			(xy 127 91.44) (xy 124.46 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "328de4b2-a825-456d-85d7-588b88de253d")
+	)
+	(wire
+		(pts
+			(xy 167.64 118.11) (xy 165.1 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43ae99c3-0193-469e-ba78-80e1ef80f9fb")
+	)
+	(wire
+		(pts
+			(xy 92.71 95.25) (xy 96.52 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45d25f4a-87b9-4fbf-8828-e733eb2022cc")
+	)
+	(wire
+		(pts
+			(xy 130.81 78.74) (xy 130.81 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a022c58-9878-4cbc-a9c4-d05890b552a7")
+	)
+	(wire
+		(pts
+			(xy 191.77 81.28) (xy 191.77 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c1083d4-c21a-462d-8de6-b05ff1c06473")
+	)
+	(wire
+		(pts
+			(xy 187.96 99.06) (xy 191.77 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5192953e-9f5b-48df-8291-c43b06bc9ddc")
+	)
+	(wire
+		(pts
+			(xy 187.96 109.22) (xy 191.77 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59ffa8bf-f09d-44d2-8458-a0184b532362")
+	)
+	(wire
+		(pts
+			(xy 195.58 81.28) (xy 191.77 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d09b643-09c9-4b01-9b05-aee68625cdfb")
+	)
+	(wire
+		(pts
+			(xy 167.64 73.66) (xy 154.94 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64481ab1-e745-4a07-9465-c582b3c03710")
+	)
+	(wire
+		(pts
+			(xy 154.94 91.44) (xy 152.4 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67f857fd-49a1-48b7-8ca3-a4848fb37a58")
+	)
+	(wire
+		(pts
+			(xy 152.4 99.06) (xy 165.1 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81f0e453-c437-4236-9d06-f6ce12668c9a")
+	)
+	(wire
+		(pts
+			(xy 92.71 91.44) (xy 96.52 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "841b57ae-0fd8-44e7-a31d-d76cd8c8fd9b")
+	)
+	(wire
+		(pts
+			(xy 160.02 77.47) (xy 160.02 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "846015db-fa89-4678-839c-66e0ef33226e")
+	)
+	(wire
+		(pts
+			(xy 187.96 73.66) (xy 195.58 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "848acb79-1843-401d-a085-658d12d61894")
+	)
+	(wire
+		(pts
+			(xy 167.64 109.22) (xy 165.1 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ced3126-5d7f-4794-8ab9-48fd6e151bf4")
+	)
+	(wire
+		(pts
+			(xy 191.77 109.22) (xy 195.58 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a240e7a9-32b2-42af-a437-69e8c4bad1a5")
+	)
+	(wire
+		(pts
+			(xy 130.81 95.25) (xy 124.46 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b327386b-f6de-4659-8f56-415da94f284d")
+	)
+	(wire
+		(pts
+			(xy 191.77 99.06) (xy 191.77 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be5698d0-fc9b-4000-92ea-84044b5690c3")
+	)
+	(wire
+		(pts
+			(xy 187.96 77.47) (xy 195.58 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2222779-0960-4bdf-80dc-2a77cdb635c8")
+	)
+	(wire
+		(pts
+			(xy 167.64 77.47) (xy 160.02 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca4c6881-1586-47fe-88cc-836d15f4c7ab")
+	)
+	(wire
+		(pts
+			(xy 92.71 99.06) (xy 96.52 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9c2bd98-ff01-4606-97d1-8fffb693fa64")
+	)
+	(wire
+		(pts
+			(xy 165.1 99.06) (xy 165.1 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de6595e4-b7a1-47e6-a878-4796e7f48846")
+	)
+	(wire
+		(pts
+			(xy 165.1 90.17) (xy 165.1 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8dee96e-263d-4104-913c-94b83adbe739")
+	)
+	(wire
+		(pts
+			(xy 134.62 74.93) (xy 127 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f484cb77-99a8-470f-b9a6-76fd3700ae00")
+	)
+	(sheet
+		(at 195.58 71.12)
+		(size 15.24 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "0a4e5055-639e-44d1-8a08-0fc09662e076")
+		(property "Sheetname" "MCU Board"
+			(at 195.58 70.4084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usantitled.kicad_sch"
+			(at 195.58 84.4046 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDA" input
+			(at 195.58 73.66 180)
+			(uuid "87a15344-cf9e-4ea2-9bd5-66d096c9987c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCL" input
+			(at 195.58 77.47 180)
+			(uuid "42c27dbe-5dd0-4031-b95a-6a61de7b1c70")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM" output
+			(at 195.58 81.28 180)
+			(uuid "8654cbd0-1de8-43b4-b25c-38e03cee0260")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "power-systems-v3"
+				(path "/75e88362-581b-4e0b-a36f-b06f4dde56ea/4f554a6b-c18b-4333-b6d2-2697a77f1e8b"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 167.64 71.12)
+		(size 20.32 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "106eb35b-c023-49ad-9fd3-a7024ddea056")
+		(property "Sheetname" "Battery Fuel Gauge"
+			(at 167.64 70.4084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untisstled.kicad_sch"
+			(at 167.64 80.5946 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN+" input
+			(at 167.64 73.66 180)
+			(uuid "9ce52932-6f94-4d6c-88fc-d9c332b258e4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IN-" input
+			(at 167.64 77.47 180)
+			(uuid "223e8855-1563-4487-bfb4-d8371ed361d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCL" output
+			(at 187.96 77.47 0)
+			(uuid "6561a50b-3ebf-4273-a777-c05d0a452513")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDA" output
+			(at 187.96 73.66 0)
+			(uuid "b499533c-cf64-4020-b9af-f654a920be56")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "power-systems-v3"
+				(path "/75e88362-581b-4e0b-a36f-b06f4dde56ea/4f554a6b-c18b-4333-b6d2-2697a77f1e8b"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 167.64 106.68)
+		(size 20.32 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "3634a515-2315-4475-97bc-34e971269a48")
+		(property "Sheetname" "5V Buck Converter"
+			(at 167.64 105.9684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitlffsded.kicad_sch"
+			(at 167.64 112.3446 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Vin" input
+			(at 167.64 109.22 180)
+			(uuid "ad49b2b5-ba8f-4a7b-ab7a-df92bd75257d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "5V" output
+			(at 187.96 109.22 0)
+			(uuid "a8f20ce6-5f2a-4dce-beb8-8a444029a18a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "power-systems-v3"
+				(path "/75e88362-581b-4e0b-a36f-b06f4dde56ea/4f554a6b-c18b-4333-b6d2-2697a77f1e8b"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 134.62 72.39)
+		(size 17.78 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "3d156cda-889c-4bad-abf8-7d942d0511f4")
+		(property "Sheetname" "Charge Connection"
+			(at 134.62 71.6784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "udntitled.kicad_sch"
+			(at 134.62 81.8646 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Charge Vin+" output
+			(at 134.62 74.93 180)
+			(uuid "98c3a424-089c-47c2-80e7-071293fb0824")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Charge Vin-" output
+			(at 134.62 78.74 180)
+			(uuid "7fdebd45-90bd-4992-a8c5-d33c99cce187")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "power-systems-v3"
+				(path "/75e88362-581b-4e0b-a36f-b06f4dde56ea/4f554a6b-c18b-4333-b6d2-2697a77f1e8b"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 72.39 88.9)
+		(size 20.32 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "4552e45f-6c28-4692-8dfc-b746a0202bcb")
+		(property "Sheetname" "Battery Array 3S5P"
+			(at 72.39 88.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitlesd.kicad_sch"
+			(at 72.39 103.4546 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "12.6V" output
+			(at 92.71 91.44 0)
+			(uuid "9d49d906-19b4-4772-8b52-d80dbf99d4f4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "8.4V" output
+			(at 92.71 95.25 0)
+			(uuid "688d09e4-be68-427e-800e-1e3b6f0e95ef")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "4.2V" output
+			(at 92.71 99.06 0)
+			(uuid "326cf7d3-7686-41fe-ad0b-2f601979a00f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "power-systems-v3"
+				(path "/75e88362-581b-4e0b-a36f-b06f4dde56ea/4f554a6b-c18b-4333-b6d2-2697a77f1e8b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 195.58 106.68)
+		(size 21.59 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "5632fea6-8be2-4d13-878a-f964e7c7954d")
+		(property "Sheetname" "Low Volt Connections"
+			(at 195.58 105.9684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitledgdf.kicad_sch"
+			(at 195.58 112.3446 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Vin" input
+			(at 195.58 109.22 180)
+			(uuid "c33d5db8-94e6-473d-a864-0ae40d1461b8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "power-systems-v3"
+				(path "/75e88362-581b-4e0b-a36f-b06f4dde56ea/4f554a6b-c18b-4333-b6d2-2697a77f1e8b"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 195.58 87.63)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "5b3646d6-d7a3-41d3-98a9-01208b3abe08")
+		(property "Sheetname" "LED Boards"
+			(at 195.58 86.9184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitlekjld.kicad_sch"
+			(at 195.58 93.2946 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Vin" input
+			(at 195.58 90.17 180)
+			(uuid "2fcfb0db-8abd-4761-9d75-3ada79c5c815")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "power-systems-v3"
+				(path "/75e88362-581b-4e0b-a36f-b06f4dde56ea/4f554a6b-c18b-4333-b6d2-2697a77f1e8b"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 167.64 115.57)
+		(size 20.32 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "97f562a5-1044-4c30-bd2d-05f8eb6f7464")
+		(property "Sheetname" "Motor Connections"
+			(at 167.64 114.8584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "unfdndtitled.kicad_sch"
+			(at 167.64 121.2346 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Vin" input
+			(at 167.64 118.11 180)
+			(uuid "8b9e19fa-4b59-45b9-bedf-309cd95463c9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "power-systems-v3"
+				(path "/75e88362-581b-4e0b-a36f-b06f4dde56ea/4f554a6b-c18b-4333-b6d2-2697a77f1e8b"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 167.64 83.82)
+		(size 20.32 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "a683e07b-f34a-4509-b87b-d8a97fb1ea45")
+		(property "Sheetname" "LED Drivers"
+			(at 167.64 83.1084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untikjkjtled.kicad_sch"
+			(at 167.64 93.2946 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Vin" input
+			(at 167.64 90.17 180)
+			(uuid "2b70b09d-2821-40a1-9833-135038dc2a8b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VLED" output
+			(at 187.96 90.17 0)
+			(uuid "5d06bb82-13ad-48aa-a9e1-4a6d4f9ce00a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM" input
+			(at 187.96 86.36 0)
+			(uuid "ccdc08f1-bc1e-49f2-bb94-de5204fa29d6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "power-systems-v3"
+				(path "/75e88362-581b-4e0b-a36f-b06f4dde56ea/4f554a6b-c18b-4333-b6d2-2697a77f1e8b"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 167.64 96.52)
+		(size 20.32 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "ba9bb40d-3268-4f8c-8ab8-dd28dfa39400")
+		(property "Sheetname" "3.3V Buck Converter"
+			(at 167.64 95.8084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitleffd.kicad_sch"
+			(at 167.64 102.1846 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Vin" input
+			(at 167.64 99.06 180)
+			(uuid "87324974-2067-46bd-ad98-645964779c10")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "3.3V" output
+			(at 187.96 99.06 0)
+			(uuid "0c88b84f-a957-4555-8779-d8d5275cce1b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "power-systems-v3"
+				(path "/75e88362-581b-4e0b-a36f-b06f4dde56ea/4f554a6b-c18b-4333-b6d2-2697a77f1e8b"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 96.52 88.9)
+		(size 27.94 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "dcb5736a-cf17-4c9f-b545-18d7195cbd15")
+		(property "Sheetname" "Battery Management System"
+			(at 96.52 88.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitlefd.kicad_sch"
+			(at 96.52 103.4546 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "12.6V" input
+			(at 96.52 91.44 180)
+			(uuid "1805f315-218a-444f-88e8-f320d75aa8b5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "4.2V" input
+			(at 96.52 99.06 180)
+			(uuid "c7ee3a0b-4858-4351-843b-3d0425008516")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "8.4V" input
+			(at 96.52 95.25 180)
+			(uuid "54a41fb5-4f2f-4bd9-b357-72504559eb76")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Charge Vin-" input
+			(at 124.46 95.25 0)
+			(uuid "65ebae83-9939-4ec2-b2e9-a272633ee7ff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Charge Vin+" input
+			(at 124.46 91.44 0)
+			(uuid "c7172bef-8c1f-4f6e-87af-1e072a36aa58")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Discharge Vout+" output
+			(at 124.46 99.06 0)
+			(uuid "7e4d2c10-c651-4cf7-9371-b24cd19505c9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "power-systems-v3"
+				(path "/75e88362-581b-4e0b-a36f-b06f4dde56ea/4f554a6b-c18b-4333-b6d2-2697a77f1e8b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 135.89 88.9)
+		(size 16.51 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "dded1051-a77e-4967-912e-3861b6502ac5")
+		(property "Sheetname" "Bulk Power Input"
+			(at 135.89 88.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "unitled.kicad_sch"
+			(at 135.89 103.4546 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN+" output
+			(at 152.4 91.44 0)
+			(uuid "ec958de5-53fa-4e87-9c21-ef4c40ddee69")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "IN-" output
+			(at 152.4 95.25 0)
+			(uuid "2b04bd1d-0165-485c-a452-dfbf686d84c7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Vout+" output
+			(at 152.4 99.06 0)
+			(uuid "ac63ae4d-fa5a-4d90-8259-b92596ec53f1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Vin+" input
+			(at 135.89 99.06 180)
+			(uuid "c74a56d2-5188-42a5-a9c0-35f1df87131e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "power-systems-v3"
+				(path "/75e88362-581b-4e0b-a36f-b06f4dde56ea/4f554a6b-c18b-4333-b6d2-2697a77f1e8b"
+					(page "6")
+				)
+			)
+		)
+	)
+)

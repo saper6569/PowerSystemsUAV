@@ -1,0 +1,52 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "5453253b-4659-400c-aa93-b001c52c3c20")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "IN+"
+		(shape input)
+		(at 73.66 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0c9ef28d-56bf-4e31-8e56-8cb844ab260e")
+	)
+	(hierarchical_label "IN-"
+		(shape input)
+		(at 73.66 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4d67eb12-b14b-44e1-b2a5-97a0056c6658")
+	)
+	(hierarchical_label "SDA"
+		(shape output)
+		(at 99.06 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ca943fa5-7899-47cd-8151-43e4c9f5f3ee")
+	)
+	(hierarchical_label "SCL"
+		(shape output)
+		(at 99.06 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d59aa748-b5ff-437b-9b7d-8b0420dbc55c")
+	)
+)

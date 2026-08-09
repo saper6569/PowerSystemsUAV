@@ -1,0 +1,30 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "72581310-2719-433e-9aad-2be4fcd73ed1")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "5V"
+		(shape output)
+		(at 147.32 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "33e8db7a-0746-44c1-85f2-8a25e2a73690")
+	)
+	(hierarchical_label "Vin"
+		(shape input)
+		(at 130.81 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4343a105-1a6b-43e6-bf58-ed20625c2cdc")
+	)
+)

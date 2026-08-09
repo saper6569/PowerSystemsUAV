@@ -1,0 +1,41 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "413a907c-848b-43ae-8967-0640f7655200")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "Vin"
+		(shape input)
+		(at 105.41 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4affcd0f-a7a0-42ef-8a05-30f49673fea8")
+	)
+	(hierarchical_label "VLED"
+		(shape output)
+		(at 121.92 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9fe707d9-d3b8-41b4-ac85-be258be5684b")
+	)
+	(hierarchical_label "PWM"
+		(shape input)
+		(at 105.41 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d0857c08-f787-4710-8613-bdb364e946dc")
+	)
+)

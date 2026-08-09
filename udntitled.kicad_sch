@@ -1,0 +1,30 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "c05e67ae-cc7b-4bb3-86b5-4a36c70a8ca2")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "Charge Vin+"
+		(shape output)
+		(at 111.76 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "595aa7f1-c397-4591-8ee7-c9864178ae77")
+	)
+	(hierarchical_label "Charge Vin-"
+		(shape output)
+		(at 111.76 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e6453f61-3cc7-46c7-9f9d-8539cb31e32c")
+	)
+)
