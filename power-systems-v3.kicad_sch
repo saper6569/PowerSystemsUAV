@@ -5586,6 +5586,30 @@
 	)
 	(global_label "12V"
 		(shape input)
+		(at 229.87 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "025c554b-ca34-41d3-b073-65168e1c05d2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 223.3772 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "12V"
+		(shape input)
 		(at 168.91 82.55 180)
 		(fields_autoplaced yes)
 		(effects
@@ -5653,30 +5677,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "12V"
-		(shape input)
-		(at 171.45 109.22 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3f0d3215-b59d-441c-96ec-98155a97f088")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 164.9572 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -5826,6 +5826,30 @@
 	)
 	(global_label "12V"
 		(shape input)
+		(at 171.45 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9ce756b4-61c7-4849-aaba-253db4e7e235")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 164.9572 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "12V"
+		(shape input)
 		(at 43.18 102.87 180)
 		(fields_autoplaced yes)
 		(effects
@@ -5861,30 +5885,6 @@
 		(uuid "c8e0b7b6-970a-4219-86b3-60465558ae56")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 176.3873 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "12V"
-		(shape input)
-		(at 229.87 109.22 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d089cb07-bef6-4625-a41e-57b57a815fd6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 223.3772 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
